@@ -5,3 +5,5 @@ source .env/bin/activate
 pip install -r requirements.txt
 python3 book.py
 python3 main.py
+read book.py
+read main.py
